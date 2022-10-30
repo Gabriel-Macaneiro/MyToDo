@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>MyTodo</DisplayName>
+    <Description>Um gerenciador de tarefas pessoais desenvolvido no Curso de Qt Moderno com C++</Description>
+    <Version>1.0.0</Version>
+    <ReleaseDate>2021-10-23</ReleaseDate>
+    <Default>true</Default>
+    <Script>installscript.qs</Script>
+</Package>
